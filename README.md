@@ -1,7 +1,7 @@
 # 👻 Hey, I'm B-eelzebub
 ![Cool wallpaper](https://github.com/B-eelzebub/B-eelzebub/blob/main/Horizontal_wall.jpg?raw=true)
 - 🐍 I mainly code in Python for back-end
-- 💻 Experience with front-end web dev and DMBS
+- 💻 Experience with front-end web dev and DBMS
 - 📃 LaTeX addict
 - 🎒 My github repos are old projects that I worked on in highschool
 <!---
